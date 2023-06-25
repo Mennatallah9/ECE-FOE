@@ -19,5 +19,3 @@ Contributions are welcome to enhance the functionality or add new features to th
 5. Push your changes to your forked repository.
 6. Open a pull request, clearly describing the changes you have made.
 
-## License
-This project is licensed under the MIT License. Feel free to modify and distribute the codebase. However, ensure you include the appropriate attribution and provide a link to the original repository.
